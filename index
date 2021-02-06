@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <style>
+p {font-style: italic; font-size:10px; font-family: "Verdana"; color:yellow}
+.colortext {border-style:dotted; color:red}
+#para1 {border:solid green 6px; color:blue}
+a:unvisited {color: red}
+a:visited {color: blue}
+h1 {text-shadow: 2px 2px white; color:red}
+html { background-color: yellow; }
+body { width: 250px; margin: 0 auto;
+background-color: lightskyblue; padding: 0 40px 20px
+18px; border: 5px dotted blue; }
+</style>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="./Design.css">
+    <title>Alen's homepage</title>
+    </head>
+  <body>
+    <img src="https://media.giphy.com/media/PgJwMLahrGc3IcteOt/giphy.gif" width="800" height="600" alt= "Alen's profile">
+<audio src="Smash_Mouth_-_All_Star_mp3.mp3" controls></audio>
+<h1>Talgat Alen</h1>
+<p>I am a student of <strong><a href="https://astanait.edu.kz/">AITU</a></strong></em></p>
+<p>I like to watch movies and eat</p>
+<hr>
+<h3>Information about me</h3>
+<ul>
+  <li>I am 18 years old</li>
+  <li>I was born on 01.06.2002</li>
+</ul>
+<h3>Education experience</h3>
+<p>2009-2013 Turan school</p>
+<p>2014-2016 school gymnasium № 56 </p>
+<p>2017-2019 school № 70 </p>
+<p>2019-2020 school gymnasium № 75 </p>
+
+<table>
+  <tr>
+    <td></td>
+  </tr>
+</table>
+
+</table>
+
+<h3>Skills</h3>
+<table>
+
+  <tr>
+    <td>Web Development</td>
+    <td>⭐⭐⭐⭐⭐⭐</td>
+  </tr>
+
+  <tr>
+<td>Сharisma</td>
+<td>⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐</td>
+  </tr>
+
+  <tr>
+    <td>Сreative thinking</td>
+    <td>⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐</td>
+  </tr>
+
+
+</table>
+
+
+
+
+
+
+
+
+
+
+<hr>
+
+<a href="hobbies.html">My hobbies</a>
+<a href="contactme.html">Contact me</a>
+  </body>
+</html>
